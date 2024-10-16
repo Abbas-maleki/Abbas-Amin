@@ -1,2 +1,2 @@
 # Taj-UT
-- 👋 Hi, This is the repository to store the codes and other files to do with the collaborations of Amin and Abbas! Wishing the best shortly.
+- 👋 Hi, This is the repository to store the codes and other files to do with the collaborations of Amin and Abbas!
