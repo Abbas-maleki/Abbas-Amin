@@ -14,6 +14,7 @@ The naming convention for the implementation files follows this pattern:
 where "ProblemName.md" itself corresponds to the description file detailing the problem context.
 
 💡Repository Structure and Updates
+
 This repository is continuously updated as new algorithms and problem formulations are developed or improved.
 Because of this active development process, file structures, naming conventions, or code implementations may change over time.
 
