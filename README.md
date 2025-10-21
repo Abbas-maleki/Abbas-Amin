@@ -11,7 +11,7 @@ Algorithm Implementation File: contains the implementation of the proposed or st
 
 The naming convention for the implementation files follows this pattern:
 "AlgorithmName-ProblemName.ipynb" (or other suffix based on the programming language)
-where "ProblemName.txt" itself corresponds to the description file detailing the problem context.
+where "ProblemName.md" itself corresponds to the description file detailing the problem context.
 
 💡Repository Structure and Updates
 This repository is continuously updated as new algorithms and problem formulations are developed or improved.
