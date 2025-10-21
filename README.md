@@ -13,7 +13,7 @@ The naming convention for the implementation files follows this pattern:
 "AlgorithmName-ProblemName.ipynb" (or other suffix based on the programming language)
 where "ProblemName.txt" itself corresponds to the description file detailing the problem context.
 
-⚙️ Repository Structure and Updates
+💡Repository Structure and Updates
 This repository is continuously updated as new algorithms and problem formulations are developed or improved.
 Because of this active development process, file structures, naming conventions, or code implementations may change over time.
 
